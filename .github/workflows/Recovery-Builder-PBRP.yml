@@ -6,7 +6,7 @@ on:
       MANIFEST_BRANCH:
         description: 'Manifest Branch'
         required: true
-        default: 'android-11.1'
+        default: 'android-11.0'
         type: choice
         options:
         - android-12.1
